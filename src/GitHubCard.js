@@ -11,7 +11,7 @@ function GitHubCard(){
     <Card.Title>Github Page</Card.Title>
     <Card.Text>
      Username : QuadrupleTunde
-     {Olapic}
+     <Card.Img src={Olapic} width="50px"/>
      
     </Card.Text>
     <Card.Text>

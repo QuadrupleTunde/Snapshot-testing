@@ -29,7 +29,11 @@ exports[`renders a snapshot 1`] = `
             className="card-text"
           >
             Username : QuadrupleTunde
-            olapic.jpg
+            <img
+              className="card-img"
+              src="olapic.jpg"
+              width="50px"
+            />
           </p>
           <p
             className="card-text"
